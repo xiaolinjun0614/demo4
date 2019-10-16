@@ -7,5 +7,6 @@ public class hee1 {
         //123
         //456
         //zxcvb
+        //0000000
     }
 }
